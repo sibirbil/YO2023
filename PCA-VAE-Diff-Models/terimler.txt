@@ -1,0 +1,42 @@
+approximate    - yaklasma
+auto-encoder   - ozkodlayici
+backpropagation- geri yayılım
+basis vector   - taban vektorleri
+Brownian motion- Brown devinimi
+closed-form    - kapali ifade
+concave        - içbükey
+conditional    - kosullu
+derivative     - turev
+diffusion      - yayinim
+discrete       - kesikli
+divergence     - iraksama
+decode         - kod cozmek
+eigenvector    - özvektör
+encode         - kodlamak
+expectation    - beklenen değer
+factorization  - carpinlarina ayristirma
+forward model  - ileri model
+gradient       - gradyan
+interpolation  - aradeğer bulma
+isotropic      - yönbağımsız
+joint distr.   - bileşik olasılık dağılımı
+likelihood     - olabilirlik
+linear         - dogrusal
+loss function  - maliyet fonksiyonu
+nonlinear      - doğrusaldışı
+notation       - simgelem
+optimization   - eniyileme
+partial deriv. - kısmi türev
+posterior      - ardil
+prior          - onsel
+projection     - izdusum
+transformation - donusum
+trace (matrix) - iz
+unit vector    - birim vektor
+white noise    - beyaz gurultu
+Wiener process - Wiener süreci
+
+
+evidence lower bound         - varyasyonel alt sınır
+principle component analysis - ana bileşenler analizi
+probabilistic inference      - olasılıksal çıkarsama
