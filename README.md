@@ -4,4 +4,6 @@
 
 Nesin Matematik Köyü'nde yaptığımız derslerin notları.
 
+![YO2023](./img/yo2023.png)
+
 
